@@ -1,0 +1,14 @@
+{
+  "name": "rubel",
+  "version": "1.0.0",
+  "description": "example json server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --delay 500 --watch information.json --no-cors true --port 9000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
